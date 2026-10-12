@@ -97,22 +97,30 @@ I'm an **Electronics and Communication Engineering (ECE) student** at JSS Scienc
 
 ### 📈 Contribution Activity
 
-  <p align="center">
-  <a href="https://github.com/balushetty07">
-    View my GitHub contribution calendar
-  </a>
-</p>
+  
+### 📈 Contribution Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balushetty07&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+
+</div>
+
 
 
 
 ### 🏆 Profile Trophies
 
 
-  <p align="center">
-  <a href="https://github.com/balushetty07">
-    Explore my GitHub profile and projects
-  </a>
-</p>
+  
+### 🏆 Profile Trophies
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=balushetty07&theme=flat&no-frame=true&no-bg=true&column=7" alt="GitHub profile trophies" />
+
+</div>
+
 
 
 ### 🐍 Contribution Snake
