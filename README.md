@@ -97,22 +97,13 @@ I'm an **Electronics and Communication Engineering (ECE) student** at JSS Scienc
 
 ### 📈 Contribution Activity
 
-  
-### 📈 Contribution Activity
-
 <div align="center">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=balushetty07&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
 
 </div>
-
-
-
-
-### 🏆 Profile Trophies
-
-
   
+
 ### 🏆 Profile Trophies
 
 <div align="center">
