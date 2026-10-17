@@ -1,8 +1,4 @@
-<!--
-  GitHub profile README for balushetty07
-  Design idea: Signal → Software → Systems
-  Note: GitHub READMEs support Markdown/HTML, images and links, but not custom JavaScript.
--->
+<!-- GitHub profile README for balushetty07 -->
 
 <div align="center">
 
@@ -176,18 +172,6 @@ I use this profile as a practical engineering log: projects I've built, tools I'
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=balushetty07&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </p>
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balushetty07&bg_color=00000000&color=22C55E&line=16A34A&point=86EFAC&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
-</div>
-
-### 🏆 Profile Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=balushetty07&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub profile trophies" width="100%" />
-</div>
 
 ### 🐍 Contribution Snake
 
