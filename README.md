@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- Animated cover -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:14532D,100:22C55E&height=210&section=header&text=BALU%20SHETTY&fontSize=42&fontColor=F8FAFC&fontAlignY=35&desc=ECE%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20ELECTRONICS&descAlignY=56&descSize=16&animation=fadeIn" alt="Balu Shetty — ECE, software and electronics" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:14532D,100:22C55E&height=210&section=header&text=BALU%20S&fontSize=42&fontColor=F8FAFC&fontAlignY=35&desc=ECE%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20ELECTRONICS&descAlignY=56&descSize=16&animation=fadeIn" alt="Balu Shetty — ECE, software and electronics" width="100%" />
 
   <br />
 
