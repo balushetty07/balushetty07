@@ -38,53 +38,7 @@ I'm an **Electronics and Communication Engineering student at JSS Science and Te
 
 I use this profile as a practical engineering log: projects I've built, tools I've tried, and improvements I can explain. I'm still developing my skills, so I aim to represent my work clearly rather than present every technology as an area of expertise.
 
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🤖 AI & Information Retrieval</h3>
-      RAG workflows, document-based question answering, and AI-assisted study tools.
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>💻 Software Projects</h3>
-      Python applications, browser interfaces, APIs, debugging, and Git-based workflows.
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>⚡ Core ECE</h3>
-      Signal-processing coursework, MATLAB/Octave experiments, and circuit simulation.
-    </td>
-  </tr>
-</table>
-
 <p align="center"><i>One idea at a time. One working version at a time. Keep learning, keep improving.</i></p>
-
-## 🧭 How I Approach a Build
-
-<table>
-  <tr>
-    <td align="center" width="25%" valign="top">
-      <img src="https://img.shields.io/badge/01-Understand-0F172A?style=for-the-badge" alt="Step 1: Understand" />
-      <p><b>Understand</b></p>
-      <sub>Define the problem and what a useful result should look like.</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <img src="https://img.shields.io/badge/02-Build-166534?style=for-the-badge" alt="Step 2: Build" />
-      <p><b>Build</b></p>
-      <sub>Break the idea into smaller components and connect them.</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <img src="https://img.shields.io/badge/03-Test-1D4ED8?style=for-the-badge" alt="Step 3: Test" />
-      <p><b>Test</b></p>
-      <sub>Try real inputs, investigate errors, and check edge cases.</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <img src="https://img.shields.io/badge/04-Explain-6D28D9?style=for-the-badge" alt="Step 4: Explain" />
-      <p><b>Explain</b></p>
-      <sub>Document the implementation, limitations, and next improvements.</sub>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🚀 Featured Projects
 
@@ -188,7 +142,7 @@ I use this profile as a practical engineering log: projects I've built, tools I'
 ---
 
 ## 🌐 Find Me Online
-
+<div align="center">
 <table>
   <tr>
     <td align="center" width="50%" valign="middle">
@@ -215,7 +169,7 @@ I use this profile as a practical engineering log: projects I've built, tools I'
     </td>
   </tr>
 </table>
-
+</div>
 ---
 
 <div align="center">
