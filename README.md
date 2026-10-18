@@ -81,10 +81,15 @@ I use this profile as a practical engineering log: projects I've built, tools I'
       <p><img src="https://img.shields.io/github/stars/balushetty07/spam-classifier?style=flat-square&label=stars&color=16A34A" alt="Spam classifier stars" /> <img src="https://img.shields.io/github/last-commit/balushetty07/spam-classifier?style=flat-square&label=last%20commit" alt="Spam classifier last commit" /></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ ECE Coursework & Experiments</h3>
-      <p><b>Connecting theory to practical tools</b></p>
-      <p>Coursework and exercises involving digital signal processing, MATLAB/Octave, and electronics simulation. I'll feature standalone ECE projects here as their results and documentation become reproducible.</p>
-      <p><img src="https://img.shields.io/badge/DSP-Signal_Processing-B45309?style=flat-square" alt="Digital signal processing" /> <img src="https://img.shields.io/badge/MATLAB%20%2F%20Octave-Experiments-0076A8?style=flat-square" alt="MATLAB and Octave" /> <img src="https://img.shields.io/badge/LTspice-Circuit_Simulation-6D28D9?style=flat-square" alt="Circuit simulation" /></p>
+      <h3>🔐 VideoEncryptionProject</h3>
+      <p><b>A MATLAB-based video-processing project</b></p>
+      <p>Builds a preprocessing baseline for a future pixel-level video privacy and encryption pipeline, including frame extraction, RGB/YCbCr analysis, image reconstruction, luminance statistics, and frame-to-frame variation analysis.</p>
+      <p><b>Current status:</b> preprocessing baseline completed. Person segmentation, encryption/decryption, and security evaluation are future stages.</p>
+      <p>
+        <a href="https://github.com/balushetty07/VideoEncryptionProject"><img src="https://img.shields.io/badge/Source_Code-View-181717?style=for-the-badge&logo=github" alt="Video Encryption Project source code" /></a>
+      </p>
+      <p><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" /> <img src="https://img.shields.io/badge/Image%20%26%20Video_Processing-0F766E?style=flat-square" alt="Image and video processing" /> <img src="https://img.shields.io/badge/Privacy-Research-6D28D9?style=flat-square" alt="Privacy research" /></p>
+      <p><img src="https://img.shields.io/github/last-commit/balushetty07/VideoEncryptionProject?style=flat-square&label=last%20commit" alt="Video Encryption Project last commit" /></p>
     </td>
   </tr>
 </table>
@@ -120,7 +125,7 @@ I use this profile as a practical engineering log: projects I've built, tools I'
 
 <p align="center">
   <img height="175" src="https://github-stats-extended.vercel.app/api?username=balushetty07&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics card" />
-  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=balushetty07&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most-used repository languages" />
+  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=balushetty07&layout=compact&hide_border=true&theme=transparent&langs_count=10" alt="Most-used repository languages" />
 </p>
 
 <p align="center">
